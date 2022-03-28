@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.nav-link {
+    border-bottom: 2px solid black;
+}
